@@ -1,6 +1,6 @@
 <b>Hey you</b>,
 
-I'm a Software Developer and UI/UX Designer with experience in building applications with JavaScript, JQuery, Python, Java, Flask, HTML, CSS, JSON/AJAX, and Bootstrap. Creating Lo-Fi prototypes to bring flawless applications to life are my favorite thing to do. Breaking down problems into data and UI components are my strenght. 
+I'm a Software Developer and UI/UX Designer with experience in building applications with JavaScript/JQuery, Python, Java, Flask, HTML, CSS, JSON/AJAX, and Bootstrap. Creating Lo-Fi prototypes to bring flawless applications to life are my favorite thing to do. Breaking down problems into data and UI components are my strenght. 
 
 <br>
 <b>What I do</b>
