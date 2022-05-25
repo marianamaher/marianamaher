@@ -1,12 +1,12 @@
 <b>Hey you</b>,
 
-I'm a Software Developer and UI/UX Designer with experience in building applications with JavaScript/JQuery, Python, Java, Flask, HTML, CSS, JSON/AJAX, and Bootstrap. Creating Lo-Fi prototypes to bring flawless applications to life are my favorite thing to do. Breaking down problems into data and UI components are my strenght. 
+I'm a Software Developer and UI Designer with experience in building applications with JavaScript/JQuery, Python, Java, Flask, HTML, CSS, JSON/AJAX, and Bootstrap. Creating Lo-Fi prototypes to bring flawless applications to life are my favorite thing to do. Breaking down problems into data and UI components are my strenght. 
 
 <br>
 <b>What I do</b>
 <br></br>
 
-💻 Incoming IT Engineer Intern at Amazon (Summer 2022)
+💻 IT Engineer Intern at Amazon (Summer 2022)
 
 ⚙️ Currently building Ímpar
 
