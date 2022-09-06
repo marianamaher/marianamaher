@@ -10,7 +10,7 @@ I'm a Software Developer and UI Designer with experience in building application
 
 ⚙️ Currently building Ímpar
 
-🎓 Junior Student at Columbia University in the City of New York 
+🎓 Senior Student at Columbia University in the City of New York 
 
 <br>
 <b>More about me</b>
