@@ -6,7 +6,7 @@ I'm a Software Developer and UI/UX Designer with experience in building applicat
 <b>What I do</b>
 <br></br>
 
-💻 IT Engineer Intern at Amazon (Summer 2022)
+💻 Technology Engineer Intern at Amazon (Summer 2022)
 
 ⚙️ Currently building SIMILE - an AI based APP 
 
