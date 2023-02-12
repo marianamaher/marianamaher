@@ -5,8 +5,10 @@ I'm a Software Developer and UI/UX Designer with experience in building applicat
 <br>
 <b>What I do</b>
 <br></br>
-🤖 Research Assistant / Software Developer for the Computer Science Department at Columbia University <br></br>
+
 💻 Technology Engineer Intern at Amazon (Summer 2022)
+
+🤖 Research Assistant / Software Developer for the Computer Science Department at Columbia University
 
 ⚙️ Currently building SIMILE - an AI based APP 
 
