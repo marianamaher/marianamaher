@@ -6,19 +6,19 @@ I'm a Software Developer and UI/UX Designer with experience in building applicat
 <b>What I do</b>
 <br></br>
 
-🤖 Research Assistant / Software Developer for the Computer Science Department at Columbia University
+🤖 Research Assistant/Software Developer for the Computer Science Department at Columbia University
 
 💻 Technology Engineer Intern at Amazon (Summer 2022)
 
-⚙️ Currently building AIDE - an AI based WEB APP 
+⚙️ Currently building AIDE - an AI based Educational App 
 
-🎓 Senior Student at Columbia University in the City of New York 
+🎓 New Grad @Columbia University in the City of New York 
 
 <br>
 <b>More about me</b>
 <br></br>
 
-🌱 I’m currently learning <b>React</b>
+🌱 I’m currently learning <b>Angular</b>
 
 💬 Ask me anything about UI/UX Design, IT Engineering, Lo-Fi Prototyping 
 
