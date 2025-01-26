@@ -6,9 +6,9 @@ I’m a Software Developer who loves tackling challenges head-on. I’m all abou
 <b>What I've been up to</b>
 <br></br>
 ⚙️ Currently maintaining older applications, as well as building up <i>Mastermind</i>- a word puzzle app. 
-<br>
+<br><br>
 🎓 '23 Grad @Columbia University in the City of New York 
-
+<br>
 <br>
 <b>More about me</b>
 <br></br>
