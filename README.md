@@ -1,12 +1,12 @@
 <b>Hey you</b>,
 
-I'm a Software Developer and creating Lo-Fi prototypes to bring flawless applications to life is one of my favorite things to do. Breaking down problems into data and UI components are my strength. 
+I’m a Software Developer who loves tackling challenges head-on. I’m all about breaking down complex problems into bite-sized data and UI components. Creating Lo-Fi prototypes and turning them into flawless applications? That’s my jam. 
 
 <br>
 <b>What I've been up to</b>
 <br></br>
-⚙️ Currently maintaining older applications, as well as building up _Mastermind_ - a word puzzle app. 
-
+⚙️ Currently maintaining older applications, as well as building up <i>Mastermind</i>- a word puzzle app. 
+<br>
 🎓 '23 Grad @Columbia University in the City of New York 
 
 <br>
