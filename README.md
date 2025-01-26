@@ -5,7 +5,7 @@ I’m a Software Developer who loves tackling challenges head-on. I’m all abou
 <br>
 <b>What I've been up to</b>
 <br></br>
-⚙️ Currently maintaining older applications, as well as building up <i>Mastermind</i>- a word puzzle app. 
+⚙️ Currently maintaining older applications, as well as building up <i>Mastermind</i> - a word puzzle app. 
 <br><br>
 🎓 '23 Grad @Columbia University in the City of New York 
 <br>
@@ -16,8 +16,6 @@ I’m a Software Developer who loves tackling challenges head-on. I’m all abou
 🌱 I’m currently working on my <b>Angular</b> skills, and studying to take my AWS Developer certification.
 
 💬 Ask me anything about: UI Design, career development, software engineering, Lo-Fi Prototyping. 
-
-🔎 Fun facts: I love playing boardgames, hiking, and travelling.
 
 📫 How to reach me: - LinkedIn: [Mariana Maher](https://linkedin.com/in/marianamaher/), - Mail: [Send me an e-mail!](mailto:mariana.maherr@gmail.com)
 
